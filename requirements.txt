@@ -1,3 +1,4 @@
+streamlit
 spacy
 en_cor_web_sm
 newspaper
